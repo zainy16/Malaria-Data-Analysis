@@ -57,36 +57,20 @@ Listed below are some formulas I used in answering the questions:
 ### Data Visualization
 Here are some tables and dashboards from Microsoft Excel
 
-|Region|Total Revenue|
-|------|-------------|
-|North|16,817,972|
-|West|16,864,376|
-|South|16,899,064|
-|East|16,958,763|
-|Grand Total|67,540,175|
-
-|Subscription Type|Total Revenue|
-|-----------------|-------------|
-|Standard|16,864,376|
-|Premium|16,899,064|
-|Basic|33,776,735|
-|Grand Total|67,540,175|
-
-|Region|Amount of Customers|
+|States|Amount of Hospitals|
 |------|-------------------|
-|West|8,420|
-|North|8,433|
-|South|8,446|
-|East|8,488|
-|Grand Total|33,787|
+|Borno|43|
+|Sokoto|41|
+|Lagos|40|
+|Kano||40|
+|Enugu|37|
+|Edo|36|
+|Delta|35|
+|Rivers|35|
+|Kaduna|33|
+|Oyo|30|
+|Grand Total|370|
 
-|Subscription Type|Amount of Customers|
-|-----------------|-------------------|
-|Standard|8,420|
-|Premium|8,446|
-|Basic|16,921|
-|Grand Total|33,787|
 
-![Customer Excel](https://github.com/user-attachments/assets/0b284ab9-e080-42c4-ae28-1b98a987af5b)
+![Dashboard](https://github.com/user-attachments/assets/3e28a676-d806-422b-be5b-08485aff0b2b)
 
-<img width="575" alt="New Customer BI" src="https://github.com/user-attachments/assets/76d774da-b980-44d1-a057-5147771e7d04" /
