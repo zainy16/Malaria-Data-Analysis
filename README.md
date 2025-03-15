@@ -35,17 +35,22 @@ The following actions were performed before the data was worked on for analysis 
 
 ### Exploratory Data Analysis
 The data was explored to answer questions like:
-- the average age
-- the age with the most hospital admissions
-- the average length of stay 
+- the average age.
+- the age with the most hospital admissions.
+- the average length of stay.
 - the average treatment cost per patient.
 - the average drug cost per patient.
-- mortality rate
-- the top 3 regions by subscription cancellations.
-- the total number of active and canceled subscriptions.
+- the mortality rate.
+- the top 3 cities with the most hospitals.
+- the top 3 states with highest treatment costs.
 
 ### Data Analysis
+Listed below are some formulas I used in answering the questions:
 
+- =AVERAGE(Table1[Age])
+- =MODE(Table1[[#All],[Age]])
+- =SUM(Table1[Duration (Days)])/100
+- =SUM('Cleaned Patient Data'!M2:M101)/100
 
 ### Data Visualization
 Here are some tables and dashboards from Microsoft Excel
