@@ -51,6 +51,8 @@ Listed below are some formulas I used in answering the questions:
 - =MODE(Table1[[#All],[Age]])
 - =SUM(Table1[Duration (Days)])/100
 - =SUM('Cleaned Patient Data'!M2:M101)/100
+- =SUM(Table1[[Drug Cost ]])/100
+- =COUNTIF(Table1[Mortality],'Cleaned Patient Data'!L83)/100
 
 ### Data Visualization
 Here are some tables and dashboards from Microsoft Excel
