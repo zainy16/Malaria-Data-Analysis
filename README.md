@@ -62,7 +62,7 @@ Here are some tables and dashboards from Microsoft Excel
 |Borno|43|
 |Sokoto|41|
 |Lagos|40|
-|Kano||40|
+|Kano|40|
 |Enugu|37|
 |Edo|36|
 |Delta|35|
@@ -70,6 +70,7 @@ Here are some tables and dashboards from Microsoft Excel
 |Kaduna|33|
 |Oyo|30|
 |Grand Total|370|
+
 
 
 ![Dashboard](https://github.com/user-attachments/assets/3e28a676-d806-422b-be5b-08485aff0b2b)
